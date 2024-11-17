@@ -12,8 +12,11 @@ using namespace std;
 
 int main() {
 
-    cout << "Welcome to this C++ Program" << endl;
-    cout << "I have corrected all errors for this program." << endl;
+    cout << "Clair" << endl;
+    cout << "Cui" << endl;
+    cout << "19050 Sherman Way" << endl;
+    cout << "Reseda" << endl;
+    cout << "98901" << endl;
 
     return 0;
 
